@@ -1,0 +1,14 @@
+{
+  "ID": "B5E595872B8068104D5AD6BBE39A6664",
+  "Disabled": false,
+  "ActionKeyword": "?",
+  "IsGlobal": false,
+  "Name": "Bang",
+  "Author": "ExampleAuthor",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://example.com",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.Bang.dll",
+  "IcoPathDark": "Images\\Search.dark.png",
+  "IcoPathLight": "Images\\Search.light.png"
+}
